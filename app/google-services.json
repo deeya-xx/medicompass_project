@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142136322222",
+    "project_id": "medicompass-2ab86",
+    "storage_bucket": "medicompass-2ab86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142136322222:android:303576fe7844fb6ccd253f",
+        "android_client_info": {
+          "package_name": "com.example.medicompass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpcfMBSkfeTLekGbUk3VqVdk_DjaLqhGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
